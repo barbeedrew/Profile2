@@ -1,0 +1,67 @@
+.back{
+    background-color: #cccccc;
+
+}
+h1{
+    text-align: left;
+    background-color: #4aaaa5;
+    color:white;    
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 20%;
+    margin-right: 65%;
+}
+.Contact{
+    width: 960px;
+    margin-left: 15%;
+    margin-right: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    border: 20px;
+    background-color: #dddddd;
+    padding-right: 307px;
+    padding-top: 1px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+.about{
+    margin: 2px;
+    height: 500px;
+    width: 960px;
+}
+.index{
+    width: 960px;
+    margin-left: 20%;
+    margin-right: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    border: 20px;
+    background-color: #dddddd;
+    padding-right: 307px;
+    padding-top: 1px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+.puppy{
+    height: 1500px;
+    margin-left: 20%;
+    margin-right: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    border: 20px;
+    background-color: #dddddd;
+    padding-right: 25%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 0%;
+
+}
+#boxes {
+    box-sizing: border-box;
+    width: 250px;
+    height: 250px;
+    margin-top: 0%;
+    margin-bottom:0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
